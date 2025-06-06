@@ -1,7 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Skyler-Luo!</h1>
 <h3 align="center">🚀 Passionate about AI, Computer Vision & Science</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16BCF7&center=true&vCenter=true&width=435&lines=Always+excited+to+learn+new+things!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16BCF7&center=true&vCenter=true&width=435&lines=Always+excited+to+learn+new+things!" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 😎 About Me:
 - 🌱 I’m currently learning **Computer Science & Deep Learning**
