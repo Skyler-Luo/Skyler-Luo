@@ -25,9 +25,7 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skyler-Luo&show_icons=true&theme=tokyonight" height="180px"/>
-</p>
+![Skyler-Luo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyler-Luo&show_icons=true&theme=radical)
 
 ## 📈 Contribution Timeline
-![](https://github-readme-activity-graph.vercel.app/graph?username=Skyler-Luo&theme=dracula)
+![Skyler-Luo's Contribution Timeline](https://github-readme-activity-graph.vercel.app/graph?username=Skyler-Luo&theme=dracula)
