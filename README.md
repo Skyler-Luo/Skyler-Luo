@@ -40,3 +40,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skyler-Luo/Skyler-Luo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Skyler-Luo/Skyler-Luo/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quotes" />
+</p>
