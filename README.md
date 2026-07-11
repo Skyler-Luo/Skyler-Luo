@@ -9,8 +9,8 @@
 
 ## 😎 About Me:
 - 🌱 **Currently Learning:** [![Computer Science](https://img.shields.io/badge/Computer_Science-1F8A70?style=flat-square)](#) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF1E56?style=flat-square)](#)
-- 📄 **Personal Resume:** [![Resume](https://img.shields.io/badge/Homepage_/_Resume-16BCF7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://skyler-luo.github.io/homepage/)
-- 📝 **Technical Blog:** [![Blog](https://img.shields.io/badge/Stellarfly_Blog-4FC08D?style=flat-square&logo=ghost&logoColor=white)](http://www.blog.stellarfly.cn/)
+- 📄 **Personal Resume:** [![Resume](https://img.shields.io/badge/Homepage_/_Resume-16BCF7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://www.stellarfly.cn/homepage/)
+- 📝 **Technical Blog:** [![Blog](https://img.shields.io/badge/Stellarfly_Blog-4FC08D?style=flat-square&logo=ghost&logoColor=white)](https://www.stellarfly.cn/)
 - 📬 **Email:** [![Email](https://img.shields.io/badge/lxywasd@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lxywasd@gmail.com)
 - ✨ **Hobbies:** [![Gaming](https://img.shields.io/badge/Gaming-🎮-8E44AD?style=flat-square)](#) [![Reading](https://img.shields.io/badge/Reading-📖-2C3E50?style=flat-square)](#) [![Music](https://img.shields.io/badge/Music-🎸-E74C3C?style=flat-square)](#)
 
