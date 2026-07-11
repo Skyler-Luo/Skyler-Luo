@@ -34,7 +34,7 @@
 ## 📈 Contribution Timeline
 ![Skyler-Luo's Contribution Timeline](https://github-readme-activity-graph.vercel.app/graph?username=Skyler-Luo&theme=dracula)
 
-## 🐍 3D Snake Game Contribution Graph
+## 🐍 Snake Game Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skyler-Luo/Skyler-Luo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skyler-Luo/Skyler-Luo/output/github-contribution-grid-snake.svg">
